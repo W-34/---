@@ -15,3 +15,6 @@ java 使用run.sh运行
 ##### 解决方案：同上，从网上搜scala config,找config-1.2.1替换typesafe-config.jar
 
 ##### 网址：https://mvnrepository.com/
+
+
+###### to 环境安装文档：我测你们码

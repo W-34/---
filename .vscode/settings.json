@@ -3,6 +3,8 @@
         "lib/**/*.jar",
         "d:\\.vscode\\java2023\\hadoop-mapreduce-client-core-2.6.5.jar",
         "d:\\.vscode\\java2023\\hadoop-common-2.6.5.jar",
-        "d:\\.vscode\\java2023\\hadoop-hdfs-2.6.5.jar"
+        "d:\\.vscode\\java2023\\hadoop-hdfs-2.6.5.jar",
+        "d:\\.vscode\\java2023\\spark-core_2.10-1.6.3.jar",
+        "D:\\.vscode\\java2023\\scala-library-2.10.6.jar"
     ]
 }
